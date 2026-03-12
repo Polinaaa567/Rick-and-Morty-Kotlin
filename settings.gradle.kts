@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RAMKotlin"
+rootProject.name = "RAMK"
 include(":app")
  
